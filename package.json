@@ -1,0 +1,14 @@
+{
+  "name": "save-json-with-api",
+  "version": "1.0.0",
+  "description": "Saving API Data as a JSON file, using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Enias F. B. de Oliveira",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
